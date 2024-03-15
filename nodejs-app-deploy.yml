@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: nodejs-app
-        image: "aniiketpatiil/jenkinsnodejs:latest
+        image: "aniiketpatiil/jenkinsnodejs:latest"
         ports:
           - containerPort: 5000
 ---
